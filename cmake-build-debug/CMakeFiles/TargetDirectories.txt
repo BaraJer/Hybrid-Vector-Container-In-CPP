@@ -1,0 +1,3 @@
+C:/Users/bara1/CLionProjects/ex7-gfat/cmake-build-debug/CMakeFiles/ex7_gfat.dir
+C:/Users/bara1/CLionProjects/ex7-gfat/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/bara1/CLionProjects/ex7-gfat/cmake-build-debug/CMakeFiles/rebuild_cache.dir
